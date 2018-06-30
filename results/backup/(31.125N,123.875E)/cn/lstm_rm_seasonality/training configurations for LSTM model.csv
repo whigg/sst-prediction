@@ -1,0 +1,9 @@
+,0
+train_samples,8802.0
+epochs_set,20.0
+total_samples,10479.0
+validate_samples,1677.0
+epoch_actual,20.0
+training_time,180.32018208503723
+batch_size,150.0
+validation_split,0.16

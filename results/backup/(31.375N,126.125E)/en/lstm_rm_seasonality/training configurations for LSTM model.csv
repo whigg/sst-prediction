@@ -1,0 +1,5 @@
+,0
+epoch,15.0
+batch_size,100.0
+training_time,181.42237281799316
+validation_split,0.1
